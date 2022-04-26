@@ -52,6 +52,7 @@ jobs:
         # because GitHub actions doesn't preserve the environment
         run: . venv/bin/activate && pytest
       - name: Create archive of dependencies
+        working-directory: fastapi_aws
         run: |
           cd ./venv/lib/python3.10/site-packages
           zip -r9 ../../../../api.zip .
