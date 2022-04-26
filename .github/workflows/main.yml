@@ -35,7 +35,7 @@ jobs:
         with:
           path: venv #what we cache: the virtual ENV
           #The cache key depends on requirements.txt
-          key: ${{runner.os }}-venv-${{hashFiles('**/requirements*.txt')}}
+          key: ${{runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
           restore-keys: |
             ${{ runner.os }}-venv-
 
@@ -50,7 +50,7 @@ jobs:
           run: . venv/bin/activate && pytest
 
         - name: Create archive of dependencies
-          run: /
+          run: |
           cd ./venv/lib/python3.10/site-packages
           zip -r9 ../../../../api.zip
 
