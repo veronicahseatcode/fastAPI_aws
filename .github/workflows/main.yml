@@ -4,7 +4,7 @@ on:
   #Trigger the workflow on push
   push:
     branches:
-      #Push events on main branch
+      #Push events on main branchh
       - main
 
 #The job defines a series of steps that execute on the same runner.
