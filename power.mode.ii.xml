@@ -1,6 +1,8 @@
 <application>
   <component name="PowerModeII">
+    <option name="heatupThreshold" value="6" />
+    <option name="heatupTime" value="558" />
     <option name="isCaretAction" value="true" />
-    <option name="keyStrokesPerMinute" value="299" />
+    <option name="keyStrokesPerMinute" value="46" />
   </component>
 </application>
