@@ -1,8 +1,8 @@
 <application>
   <component name="PowerModeII">
     <option name="flamesEnabled" value="false" />
-    <option name="heatupThreshold" value="50" />
-    <option name="heatupTime" value="558" />
+    <option name="heatupThreshold" value="61" />
+    <option name="heatupTime" value="1701" />
     <option name="isCaretAction" value="true" />
     <option name="isSoundsPlaying" value="true" />
     <option name="keyStrokesPerMinute" value="539" />
