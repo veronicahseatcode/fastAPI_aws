@@ -4,7 +4,7 @@
     <option name="heatupThreshold" value="61" />
     <option name="heatupTime" value="1701" />
     <option name="isCaretAction" value="true" />
-    <option name="isSoundsPlaying" value="true" />
+    <option name="isPowerIndicatorEnabled" value="false" />
     <option name="keyStrokesPerMinute" value="539" />
   </component>
 </application>
