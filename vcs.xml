@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/seatcode/fastapi_aws.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seatcode/cdsc-inbound-dashboards.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Review/Code/FastAPI/fastapi_aws" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Repos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
