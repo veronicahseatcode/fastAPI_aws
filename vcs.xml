@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/seatcode/pl-basic-cm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seatcode/pl-dpp-seat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Repos/Bcm" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Repos/SEAT" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
