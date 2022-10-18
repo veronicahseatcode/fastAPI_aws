@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/seatcode/pl-dpp-seat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:seatcode/aws-quicksight-migration-tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Repos/SEAT" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Repos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
